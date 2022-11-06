@@ -5,7 +5,7 @@
 <h4>To Build a online application that will be distinct from other well-known social media platforms since it will focus largely on producing and participating in live polls. Users will be able to vote on polls according to their interest tags since polls will also be categorised using tags.</h4>
  
  ```
- This website will run in http://127.0.0.1:8000/polls
+ This website will run on http://127.0.0.1:8000 
  ```
  
  <h3>Our Idea
